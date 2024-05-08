@@ -1,2 +1,1 @@
-# alx-backend-storage
-Storage Tasks For ALX Specialization - Backend
+# Project 0x00 MySQL Advanced
