@@ -21,3 +21,4 @@ def list_all(mongo_collection):
         if doc:
             doc_list.append(doc)
     return doc_list
+ 
